@@ -47,7 +47,7 @@ Know quality of wine, accurately price wine, improve production/ growing methods
 Wine is accurately assessed with the model.
 
 ## Preliminary Analysis
-For an MVP Goal I decided to provide the client with analysis of the wines in my dataset rated at a quality of 5-8. This range is where all of the good to really good wines fall.
+For an MVP Goal I decided to provide the client with analysis of the wines in my dataset rated at a quality of 5-8. This range is where all of the good to really good wines fall and has the majority of my data.
 
 **Findings:**
 
