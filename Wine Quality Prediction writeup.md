@@ -18,7 +18,7 @@ World wide about 6.2 billion gallons of wine was drank, of that Americans hold t
 
 - **Timeline**: Analysis and modeling will happen over the course of the first year of production.
 
-- **Defined Success**: When we take a sample of wine, using a 10 point quality scale we are able to access a minimum 5 quality wine using the model and use subsequent modeling on wine samples throughout production to help improve the quality.
+- **Defined Success**: When we take a sample of wine, using a 10 point quality scale we are able to access a minimum quality of 5 using the model and use subsequent modeling on wine samples throughout production to help improve the quality.
 
 
 ## Data
